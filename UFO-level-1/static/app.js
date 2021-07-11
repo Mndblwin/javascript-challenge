@@ -49,6 +49,6 @@ button.on("click", () => {
     // add comment if not sightings
     
         else {
-            $tbody.append("tr").append("td").text("No Sightings Here...Move On...");
+            $tbody.append("tr").append("td").text("MiB Flash.....nothing to see here");
         }
 })
